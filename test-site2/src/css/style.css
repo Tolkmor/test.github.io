@@ -1,0 +1,43 @@
+body {
+  background:  rgb(227, 227, 227);
+}
+.header {
+  font-size: 30px;
+  line-height: 1.5;
+  margin: 30px 0px;
+  background-color: rgb(255, 178, 127);
+}
+.header span {
+  display: block;
+}
+.section {
+  padding: 30px 0px;
+}
+.form {
+  border: 5px solid rgb(255, 178, 127);
+  padding: 35px 20px 28px 20px;
+}
+.form-input {
+  margin-bottom: 12px;
+}
+.form-header, .section-header {
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 900;
+}
+.form-btn-div {
+  margin: 12px 0px;
+}
+.form-btn {
+  background-color: rgb(255, 178, 127);
+}
+.feature p {
+  margin-top: 15px;
+  font-weight: 500;
+}
+.video {
+  margin-bottom: 30px;
+}
+.feature-box {
+  height: 160px;
+}
